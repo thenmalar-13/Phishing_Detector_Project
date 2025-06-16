@@ -1,0 +1,5 @@
+Timestamp,Email_ID,User_Response,Actual_Label,Result,Red_Flags
+2025-06-15 18:40:52.801102,8,N,genuine,Wrong,
+2025-06-15 18:42:38.766556,4,Y,genuine,Correct,
+2025-06-15 18:51:10.907430,5,N,phishing,Correct,
+2025-06-15 18:53:42.747936,1,N,phishing,Correct,Misspelled or fake domain/phrases;Urgent tone

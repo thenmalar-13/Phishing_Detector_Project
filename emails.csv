@@ -1,0 +1,9 @@
+id,email_text,label
+1,"Your account has been suspended. Click here to verify now!",phishing
+2,"Hi team, the meeting agenda is attached. Let me know your thoughts.",genuine
+3,"Win a free iPhone now! Limited time offer!!",phishing
+4,"Your receipt for the recent Amazon purchase is attached.",genuine
+5,"Alert: We've noticed suspicious activity. Log in to fix the issue.",phishing
+6,"Reminder: Workshop on cybersecurity tomorrow at 10 AM.",genuine
+7,"URGENT: Your account will be locked! Reset your password here: http://192.168.0.1",phishing
+8,"Let’s catch up for a project discussion this evening.",genuine
